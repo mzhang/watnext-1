@@ -226,5 +226,23 @@
     "type": "Assignment",
     "name": "Assignment 9",
     "course": "MATH 115"
-  }
+  },
+  {
+    "due": 1600142400,
+    "type": "Assignment",
+    "name": "Assignment 1",
+    "course": "MATH 117"
+  },
+  {
+    "due": 1600747200,
+    "type": "Assignment",
+    "name": "Assignment 2",
+    "course": "MATH 117"
+  },
+  {
+    "due": 1601352000,
+    "type": "Assignment",
+    "name": "Assignment 3",
+    "course": "MATH 117"
+  },
 ]
