@@ -1,0 +1,230 @@
+[
+  {
+    "due": 1599676200,
+    "type": "Lecture",
+    "name": "Logan Crew",
+    "course": "MATH 115"
+  },
+  {
+    "due": 1599748200,
+    "type": "Lecture",
+    "name": "Firas Mansour",
+    "course": "ECE 105"
+  },
+  {
+    "due": 1599827400,
+    "type": "Lecture",
+    "name": "Kostadinka Bizheva",
+    "course": "ECE 105"
+  },
+  {
+    "due": 1599849000,
+    "type": "Lecture",
+    "name": "Logan Crew",
+    "course": "MATH 115"
+  },
+  {
+    "due": 1600135200,
+    "type": "Assignment",
+    "name": "A0",
+    "course": "CS 137"
+  },
+  {
+    "due": 1600740000,
+    "type": "Assignment",
+    "name": "A1",
+    "course": "CS 137"
+  },
+  {
+    "due": 1601344800,
+    "type": "Assignment",
+    "name": "A2",
+    "course": "CS 137"
+  },
+  {
+    "due": 1601949600,
+    "type": "Assignment",
+    "name": "A3",
+    "course": "CS 137"
+  },
+  {
+    "due": 1602295200,
+    "type": "Assignment",
+    "name": "A4",
+    "course": "CS 137"
+  },
+  {
+    "due": 1600394400,
+    "type": "Quiz",
+    "name": "Quiz1",
+    "course": "CS 137"
+  },
+  {
+    "due": 1600999200,
+    "type": "Quiz",
+    "name": "Quiz2",
+    "course": "CS 137"
+  },
+  {
+    "due": 1601604000,
+    "type": "Quiz",
+    "name": "Quiz3",
+    "course": "CS 137"
+  },
+  {
+    "due": 1602133140,
+    "type": "Test",
+    "name": "Term Test 1",
+    "course": "ECE 105"
+  },
+  {
+    "due": 1604552340,
+    "type": "Test",
+    "name": "Term Test 2",
+    "course": "ECE 105"
+  },
+  {
+    "due": 1607576340,
+    "type": "Test",
+    "name": "Term Test 3",
+    "course": "ECE 105"
+  },
+  {
+    "due": 1600405140,
+    "type": "Assignment",
+    "name": "Assignment 1",
+    "course": "ECE 105"
+  },
+  {
+    "due": 1601009940,
+    "type": "Assignment",
+    "name": "Assignment 2",
+    "course": "ECE 105"
+  },
+  {
+    "due": 1601614740,
+    "type": "Assignment",
+    "name": "Assignment 3",
+    "course": "ECE 105"
+  },
+  {
+    "due": 1602219540,
+    "type": "Assignment",
+    "name": "Assignment 4",
+    "course": "ECE 105"
+  },
+  {
+    "due": 1603429140,
+    "type": "Assignment",
+    "name": "Assignment 5",
+    "course": "ECE 105"
+  },
+  {
+    "due": 1604033940,
+    "type": "Assignment",
+    "name": "Assignment 6",
+    "course": "ECE 105"
+  },
+  {
+    "due": 1604638740,
+    "type": "Assignment",
+    "name": "Assignment 7",
+    "course": "ECE 105"
+  },
+  {
+    "due": 1605243540,
+    "type": "Assignment",
+    "name": "Assignment 8",
+    "course": "ECE 105"
+  },
+  {
+    "due": 1605848340,
+    "type": "Assignment",
+    "name": "Assignment 9",
+    "course": "ECE 105"
+  },
+  {
+    "due": 1606453140,
+    "type": "Assignment",
+    "name": "Assignment 10",
+    "course": "ECE 105"
+  },
+  {
+    "due": 1599827400,
+    "type": "Assignment",
+    "name": "Assignment 0",
+    "course": "MATH 115"
+  },
+  {
+    "due": 1600432200,
+    "type": "Assignment",
+    "name": "Assignment 1",
+    "course": "MATH 115"
+  },
+  {
+    "due": 1601037000,
+    "type": "Assignment",
+    "name": "Assignment 2",
+    "course": "MATH 115"
+  },
+  {
+    "due": 1601641800,
+    "type": "Assignment",
+    "name": "Assignment 3",
+    "course": "MATH 115"
+  },
+  {
+    "due": 1602246600,
+    "type": "Test",
+    "name": "Term Test 1",
+    "course": "MATH 115"
+  },
+  {
+    "due": 1603456200,
+    "type": "Assignment",
+    "name": "Assignment 4",
+    "course": "MATH 115"
+  },
+  {
+    "due": 1604061000,
+    "type": "Assignment",
+    "name": "Assignment 5",
+    "course": "MATH 115"
+  },
+  {
+    "due": 1604061000,
+    "type": "Assignment",
+    "name": "Assignment 5",
+    "course": "MATH 115"
+  },
+  {
+    "due": 1604669400,
+    "type": "Assignment",
+    "name": "Assignment 6",
+    "course": "MATH 115"
+  },
+  {
+    "due": 1605274200,
+    "type": "Test",
+    "name": "Term Test 2",
+    "course": "MATH 115"
+  },
+  {
+    "due": 1605879000,
+    "type": "Assignment",
+    "name": "Assignment 7",
+    "course": "MATH 115"
+  },
+  {
+    "due": 1606483800,
+    "type": "Assignment",
+    "name": "Assignment 8",
+    "course": "MATH 115"
+  },
+  {
+    "due": 1607088600,
+    "type": "Assignment",
+    "name": "Assignment 9",
+    "course": "MATH 115"
+  }
+]
