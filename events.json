@@ -250,11 +250,5 @@
     "type": "Assignment",
     "name": "Assignment 4",
     "course": "MATH 117"
-  },
-  {
-    "due": 1600055940,
-    "type": "Assignment",
-    "name": "Motion in 1D",
-    "course": "ECE 105"
   }
 ]
