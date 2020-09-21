@@ -142,5 +142,137 @@
     "type": "Bonus",
     "name": "4 Quizzes",
     "course": "MATH 135"
+  },
+  {
+    "due": 1600228740,
+    "type": "Assignment",
+    "name": "Sapling Assignment 1",
+    "course": "MATH 117"
+  },
+  {
+    "due": 1600833540,
+    "type": "Assignment",
+    "name": "Sapling Assignment 2",
+    "course": "MATH 117"
+  },
+  {
+    "due": 1601438340,
+    "type": "Assignment",
+    "name": "Sapling Assignment 3",
+    "course": "MATH 117"
+  },
+  {
+    "due": 1602043140,
+    "type": "Assignment",
+    "name": "Sapling Assignment 4",
+    "course": "MATH 117"
+  },
+  {
+    "due": 1603857540,
+    "type": "Assignment",
+    "name": "Sapling Assignment 5",
+    "course": "MATH 117"
+  },
+  {
+    "due": 1604465940,
+    "type": "Assignment",
+    "name": "Sapling Assignment 6",
+    "course": "MATH 117"
+  },
+  {
+    "due": 1605070740,
+    "type": "Assignment",
+    "name": "Sapling Assignment 7",
+    "course": "MATH 117"
+  },
+  {
+    "due": 1605675540,
+    "type": "Assignment",
+    "name": "Sapling Assignment 8",
+    "course": "MATH 117"
+  },
+  {
+    "due": 1606280340,
+    "type": "Assignment",
+    "name": "Sapling Assignment 9",
+    "course": "MATH 117"
+  },
+  {
+    "due": 1606885140,
+    "type": "Assignment",
+    "name": "Sapling Assignment 10",
+    "course": "MATH 117"
+  },
+  {
+    "due": 1600228740,
+    "type": "Assignment",
+    "name": "Written Assignment 1",
+    "course": "MATH 117"
+  },
+  {
+    "due": 1600833540,
+    "type": "Assignment",
+    "name": "Written Assignment 2",
+    "course": "MATH 117"
+  },
+  {
+    "due": 1601438340,
+    "type": "Assignment",
+    "name": "Written Assignment 3",
+    "course": "MATH 117"
+  },
+  {
+    "due": 1602043140,
+    "type": "Assignment",
+    "name": "Written Assignment 4",
+    "course": "MATH 117"
+  },
+  {
+    "due": 1603857540,
+    "type": "Assignment",
+    "name": "Written Assignment 5",
+    "course": "MATH 117"
+  },
+  {
+    "due": 1604465940,
+    "type": "Assignment",
+    "name": "Written Assignment 6",
+    "course": "MATH 117"
+  },
+  {
+    "due": 1605070740,
+    "type": "Assignment",
+    "name": "Written Assignment 7",
+    "course": "MATH 117"
+  },
+  {
+    "due": 1605675540,
+    "type": "Assignment",
+    "name": "Written Assignment 8",
+    "course": "MATH 117"
+  },
+  {
+    "due": 1606280340,
+    "type": "Assignment",
+    "name": "Written Assignment 9",
+    "course": "MATH 117"
+  },
+  {
+    "due": 1606885140,
+    "type": "Assignment",
+    "name": "Written Assignment 10",
+    "course": "MATH 117"
+  },
+  {
+    "due": 1603252740,
+    "type": "Midterm",
+    "name": "Midterm",
+    "course": "MATH 117"
+  },
+  {
+    "due": 1608094740,
+    "type": "Final",
+    "name": "Final",
+    "course": "MATH 117"
   }
 ]
