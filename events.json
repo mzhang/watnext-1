@@ -406,5 +406,71 @@
     "type": "Test",
     "name": "Term Test 3",
     "course": "MATH 115"
+  },
+  {
+    "due": 1600394400,
+    "type": "Quiz",
+    "name": "Quiz 1",
+    "course": "CS 137"
+  },
+  {
+    "due": 1600999200,
+    "type": "Quiz",
+    "name": "Quiz 2",
+    "course": "CS 137"
+  },
+  {
+    "due": 1601604000,
+    "type": "Quiz",
+    "name": "Quiz 3",
+    "course": "CS 137"
+  },
+  {
+    "due": 1602208800,
+    "type": "Quiz",
+    "name": "Quiz 4",
+    "course": "CS 137"
+  },
+  {
+    "due": 1603418400,
+    "type": "Quiz",
+    "name": "Quiz 5",
+    "course": "CS 137"
+  },
+  {
+    "due": 1604023200,
+    "type": "Quiz",
+    "name": "Quiz 6",
+    "course": "CS 137"
+  },
+  {
+    "due": 1604631600,
+    "type": "Quiz",
+    "name": "Quiz 7",
+    "course": "CS 137"
+  },
+  {
+    "due": 1605236400,
+    "type": "Quiz",
+    "name": "Quiz 8",
+    "course": "CS 137"
+  },
+  {
+    "due": 1605841200,
+    "type": "Quiz",
+    "name": "Quiz 9",
+    "course": "CS 137"
+  },
+  {
+    "due": 1606446000,
+    "type": "Quiz",
+    "name": "Quiz 10",
+    "course": "CS 137"
+  },
+  {
+    "due": 1607050800,
+    "type": "Quiz",
+    "name": "Quiz 11",
+    "course": "CS 137"
   }
 ]
