@@ -472,5 +472,77 @@
     "type": "Quiz",
     "name": "Quiz 11",
     "course": "CS 137"
+  },
+  {
+    "due": 1600135200,
+    "type": "Assignment",
+    "name": "Assignment 0",
+    "course": "CS 137"
+  },
+  {
+    "due": 1600740000,
+    "type": "Assignment",
+    "name": "Assignment 1",
+    "course": "CS 137"
+  },
+  {
+    "due": 1601344800,
+    "type": "Assignment",
+    "name": "Assignment 2",
+    "course": "CS 137"
+  },
+  {
+    "due": 0,
+    "type": "Assignment",
+    "name": "Assignment 3",
+    "course": "CS 137"
+  },
+  {
+    "due": 0,
+    "type": "Assignment",
+    "name": "Assignment 4",
+    "course": "CS 137"
+  },
+  {
+    "due": 0,
+    "type": "Assignment",
+    "name": "Assignment 5",
+    "course": "CS 137"
+  },
+  {
+    "due": 0,
+    "type": "Assignment",
+    "name": "Assignment 6",
+    "course": "CS 137"
+  },
+  {
+    "due": 0,
+    "type": "Assignment",
+    "name": "Assignment 7",
+    "course": "CS 137"
+  },
+  {
+    "due": 0,
+    "type": "Assignment",
+    "name": "Assignment 8",
+    "course": "CS 137"
+  },
+  {
+    "due": 0,
+    "type": "Assignment",
+    "name": "Assignment 9",
+    "course": "CS 137"
+  },
+  {
+    "due": 0,
+    "type": "Assignment",
+    "name": "Assignment 10",
+    "course": "CS 137"
+  },
+  {
+    "due": 0,
+    "type": "Final",
+    "name": "Final",
+    "course": "CS 137"
   }
 ]
