@@ -1,8 +1,8 @@
 # watnext
-Public JSON ledger for UW SE 2025 events, live display at:
+NodeJS web app for UW SE 2025 deadlines, live display at:
 https://waterloo-288916.nn.r.appspot.com/
 
-This ledger uses the UNIX timestamp format for date and time.
+This project includes a public JSON ledger that uses the UNIX timestamp format for date and time.
 
 Events are not required to be in order of time, they are sorted automatically upon presentation.
 
