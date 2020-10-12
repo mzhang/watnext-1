@@ -492,51 +492,57 @@
     "course": "CS 137"
   },
   {
-    "due": 0,
+    "due": 1601906400,
     "type": "Assignment",
     "name": "Assignment 3",
     "course": "CS 137"
   },
   {
-    "due": 0,
+    "due": 1602252000,
     "type": "Assignment",
     "name": "Assignment 4",
     "course": "CS 137"
   },
   {
-    "due": 0,
+    "due": 1603720800,
     "type": "Assignment",
     "name": "Assignment 5",
     "course": "CS 137"
   },
   {
-    "due": 0,
+    "due": 1604329200,
     "type": "Assignment",
     "name": "Assignment 6",
     "course": "CS 137"
   },
   {
-    "due": 0,
+    "due": 1604934000,
     "type": "Assignment",
     "name": "Assignment 7",
     "course": "CS 137"
   },
   {
-    "due": 0,
+    "due": 1605538800,
     "type": "Assignment",
     "name": "Assignment 8",
     "course": "CS 137"
   },
   {
-    "due": 0,
+    "due": 1606143600,
     "type": "Assignment",
     "name": "Assignment 9",
     "course": "CS 137"
   },
   {
-    "due": 0,
+    "due": 1606748400,
     "type": "Assignment",
     "name": "Assignment 10",
+    "course": "CS 137"
+  },
+  {
+    "due": 1607353200,
+    "type": "Assignment",
+    "name": "Assignment 11",
     "course": "CS 137"
   },
   {
