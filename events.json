@@ -1,554 +1,476 @@
 [
-  {
-    "due": 1599882900,
-    "type": "Assignment",
-    "name": "Crowdmark Submission Practice",
-    "course": "MATH 135"
-  },
-  {
-    "due": 1600487700,
-    "type": "Assignment",
-    "name": "Written Assignment 1",
-    "course": "MATH 135"
-  },
-  {
-    "due": 1601092500,
-    "type": "Assignment",
-    "name": "Written Assignment 2",
-    "course": "MATH 135"
-  },
-  {
-    "due": 1601697300,
-    "type": "Assignment",
-    "name": "Written Assignment 3",
-    "course": "MATH 135"
-  },
-  {
-    "due": 1602302100,
-    "type": "Assignment",
-    "name": "Written Assignment 4",
-    "course": "MATH 135"
-  },
-  {
-    "due": 1604116500,
-    "type": "Assignment",
-    "name": "Written Assignment 5",
-    "course": "MATH 135"
-  },
-  {
-    "due": 1604724900,
-    "type": "Assignment",
-    "name": "Written Assignment 6",
-    "course": "MATH 135"
-  },
-  {
-    "due": 1605329700,
-    "type": "Assignment",
-    "name": "Written Assignment 7",
-    "course": "MATH 135"
-  },
-  {
-    "due": 1605934500,
-    "type": "Assignment",
-    "name": "Written Assignment 8",
-    "course": "MATH 135"
-  },
-  {
-    "due": 1606539300,
-    "type": "Assignment",
-    "name": "Written Assignment 9",
-    "course": "MATH 135"
-  },
-  {
-    "due": 1607144100,
-    "type": "Assignment",
-    "name": "Written Assignment 10",
-    "course": "MATH 135"
-  },
-  {
-    "due": 1600314900,
-    "type": "Assignment",
-    "name": "Mobius Assignment 1",
-    "course": "MATH 135"
-  },
-  {
-    "due": 1600919700,
-    "type": "Assignment",
-    "name": "Mobius Assignment 2",
-    "course": "MATH 135"
-  },
-  {
-    "due": 1601524500,
-    "type": "Assignment",
-    "name": "Mobius Assignment 3",
-    "course": "MATH 135"
-  },
-  {
-    "due": 1602129300,
-    "type": "Assignment",
-    "name": "Mobius Assignment 4",
-    "course": "MATH 135"
-  },
-  {
-    "due": 1603943700,
-    "type": "Assignment",
-    "name": "Mobius Assignment 5",
-    "course": "MATH 135"
-  },
-  {
-    "due": 1604552100,
-    "type": "Assignment",
-    "name": "Mobius Assignment 6",
-    "course": "MATH 135"
-  },
-  {
-    "due": 1605156900,
-    "type": "Assignment",
-    "name": "Mobius Assignment 7",
-    "course": "MATH 135"
-  },
-  {
-    "due": 1605761700,
-    "type": "Assignment",
-    "name": "Mobius Assignment 8",
-    "course": "MATH 135"
-  },
-  {
-    "due": 1606366500,
-    "type": "Assignment",
-    "name": "Mobius Assignment 9",
-    "course": "MATH 135"
-  },
-  {
-    "due": 1607403300,
-    "type": "Assignment",
-    "name": "Mobius Assignment 10",
-    "course": "MATH 135"
-  },
-  {
-    "due": 1603425300,
-    "type": "Midterm",
-    "name": "Midterm",
-    "course": "MATH 135"
-  },
-  {
-    "due": 1608785700,
-    "type": "Final",
-    "name": "Final",
-    "course": "MATH 135"
-  },
-  {
-    "due": 1607403300,
-    "type": "Bonus",
-    "name": "4 Quizzes",
-    "course": "MATH 135"
-  },
-  {
-    "due": 1600228740,
-    "type": "Assignment",
-    "name": "Sapling Assignment 1",
-    "course": "MATH 117"
-  },
-  {
-    "due": 1600833540,
-    "type": "Assignment",
-    "name": "Sapling Assignment 2",
-    "course": "MATH 117"
-  },
-  {
-    "due": 1601438340,
-    "type": "Assignment",
-    "name": "Sapling Assignment 3",
-    "course": "MATH 117"
-  },
-  {
-    "due": 1602043140,
-    "type": "Assignment",
-    "name": "Sapling Assignment 4",
-    "course": "MATH 117"
-  },
-  {
-    "due": 1603857540,
-    "type": "Assignment",
-    "name": "Sapling Assignment 5",
-    "course": "MATH 117"
-  },
-  {
-    "due": 1604465940,
-    "type": "Assignment",
-    "name": "Sapling Assignment 6",
-    "course": "MATH 117"
-  },
-  {
-    "due": 1605070740,
-    "type": "Assignment",
-    "name": "Sapling Assignment 7",
-    "course": "MATH 117"
-  },
-  {
-    "due": 1605675540,
-    "type": "Assignment",
-    "name": "Sapling Assignment 8",
-    "course": "MATH 117"
-  },
-  {
-    "due": 1606280340,
-    "type": "Assignment",
-    "name": "Sapling Assignment 9",
-    "course": "MATH 117"
-  },
-  {
-    "due": 1606885140,
-    "type": "Assignment",
-    "name": "Sapling Assignment 10",
-    "course": "MATH 117"
-  },
-  {
-    "due": 1600228740,
-    "type": "Assignment",
-    "name": "Written Assignment 1",
-    "course": "MATH 117"
-  },
-  {
-    "due": 1600833540,
-    "type": "Assignment",
-    "name": "Written Assignment 2",
-    "course": "MATH 117"
-  },
-  {
-    "due": 1601438340,
-    "type": "Assignment",
-    "name": "Written Assignment 3",
-    "course": "MATH 117"
-  },
-  {
-    "due": 1602043140,
-    "type": "Assignment",
-    "name": "Written Assignment 4",
-    "course": "MATH 117"
-  },
-  {
-    "due": 1603857540,
-    "type": "Assignment",
-    "name": "Written Assignment 5",
-    "course": "MATH 117"
-  },
-  {
-    "due": 1604465940,
-    "type": "Assignment",
-    "name": "Written Assignment 6",
-    "course": "MATH 117"
-  },
-  {
-    "due": 1605070740,
-    "type": "Assignment",
-    "name": "Written Assignment 7",
-    "course": "MATH 117"
-  },
-  {
-    "due": 1605675540,
-    "type": "Assignment",
-    "name": "Written Assignment 8",
-    "course": "MATH 117"
-  },
-  {
-    "due": 1606280340,
-    "type": "Assignment",
-    "name": "Written Assignment 9",
-    "course": "MATH 117"
-  },
-  {
-    "due": 1606885140,
-    "type": "Assignment",
-    "name": "Written Assignment 10",
-    "course": "MATH 117"
-  },
-  {
-    "due": 1603252740,
-    "type": "Midterm",
-    "name": "Midterm",
-    "course": "MATH 117"
-  },
-  {
-    "due": 1608094740,
-    "type": "Final",
-    "name": "Final",
-    "course": "MATH 117"
-  },
-  {
-    "due": 1599827400,
-    "type": "Assignment",
-    "name": "Written Assignment 0",
-    "course": "MATH 115"
-  },
-  {
-    "due": 1600432200,
-    "type": "Assignment",
-    "name": "Written Assignment 1",
-    "course": "MATH 115"
-  },
-  {
-    "due": 1601037000,
-    "type": "Assignment",
-    "name": "Written Assignment 2",
-    "course": "MATH 115"
-  },
-  {
-    "due": 1601641800,
-    "type": "Assignment",
-    "name": "Written Assignment 3",
-    "course": "MATH 115"
-  },
-  {
-    "due": 1603456200,
-    "type": "Assignment",
-    "name": "Written Assignment 4",
-    "course": "MATH 115"
-  },
-  {
-    "due": 1604061000,
-    "type": "Assignment",
-    "name": "Written Assignment 5",
-    "course": "MATH 115"
-  },
-  {
-    "due": 1604669400,
-    "type": "Assignment",
-    "name": "Written Assignment 6",
-    "course": "MATH 115"
-  },
-  {
-    "due": 1605879000,
-    "type": "Assignment",
-    "name": "Written Assignment 7",
-    "course": "MATH 115"
-  },
-  {
-    "due": 1606483800,
-    "type": "Assignment",
-    "name": "Written Assignment 8",
-    "course": "MATH 115"
-  },
-  {
-    "due": 1607088600,
-    "type": "Assignment",
-    "name": "Written Assignment 9",
-    "course": "MATH 115"
-  },
-  {
-    "due": 1600432200,
-    "type": "Assignment",
-    "name": "Mobius Assignment 1",
-    "course": "MATH 115"
-  },
-  {
-    "due": 1601037000,
-    "type": "Assignment",
-    "name": "Mobius Assignment 2",
-    "course": "MATH 115"
-  },
-  {
-    "due": 1601641800,
-    "type": "Assignment",
-    "name": "Mobius Assignment 3",
-    "course": "MATH 115"
-  },
-  {
-    "due": 1603456200,
-    "type": "Assignment",
-    "name": "Mobius Assignment 4",
-    "course": "MATH 115"
-  },
-  {
-    "due": 1604061000,
-    "type": "Assignment",
-    "name": "Mobius Assignment 5",
-    "course": "MATH 115"
-  },
-  {
-    "due": 1604669400,
-    "type": "Assignment",
-    "name": "Mobius Assignment 6",
-    "course": "MATH 115"
-  },
-  {
-    "due": 1605879000,
-    "type": "Assignment",
-    "name": "Mobius Assignment 7",
-    "course": "MATH 115"
-  },
-  {
-    "due": 1606483800,
-    "type": "Assignment",
-    "name": "Mobius Assignment 8",
-    "course": "MATH 115"
-  },
-  {
-    "due": 1607088600,
-    "type": "Assignment",
-    "name": "Mobius Assignment 9",
-    "course": "MATH 115"
-  },
-  {
-    "due": 1602246600,
-    "type": "Test",
-    "name": "Term Test 1",
-    "course": "MATH 115"
-  },
-  {
-    "due": 1605274200,
-    "type": "Test",
-    "name": "Term Test 2",
-    "course": "MATH 115"
-  },
-  {
-    "due": 0,
-    "type": "Test",
-    "name": "Term Test 3",
-    "course": "MATH 115"
-  },
-  {
-    "due": 1600394400,
-    "type": "Quiz",
-    "name": "Quiz 1",
-    "course": "CS 137"
-  },
-  {
-    "due": 1600999200,
-    "type": "Quiz",
-    "name": "Quiz 2",
-    "course": "CS 137"
-  },
-  {
-    "due": 1601604000,
-    "type": "Quiz",
-    "name": "Quiz 3",
-    "course": "CS 137"
-  },
-  {
-    "due": 1602208800,
-    "type": "Quiz",
-    "name": "Quiz 4",
-    "course": "CS 137"
-  },
-  {
-    "due": 1603418400,
-    "type": "Quiz",
-    "name": "Quiz 5",
-    "course": "CS 137"
-  },
-  {
-    "due": 1604023200,
-    "type": "Quiz",
-    "name": "Quiz 6",
-    "course": "CS 137"
-  },
-  {
-    "due": 1604631600,
-    "type": "Quiz",
-    "name": "Quiz 7",
-    "course": "CS 137"
-  },
-  {
-    "due": 1605236400,
-    "type": "Quiz",
-    "name": "Quiz 8",
-    "course": "CS 137"
-  },
-  {
-    "due": 1605841200,
-    "type": "Quiz",
-    "name": "Quiz 9",
-    "course": "CS 137"
-  },
-  {
-    "due": 1606446000,
-    "type": "Quiz",
-    "name": "Quiz 10",
-    "course": "CS 137"
-  },
-  {
-    "due": 1607050800,
-    "type": "Quiz",
-    "name": "Quiz 11",
-    "course": "CS 137"
-  },
-  {
-    "due": 1600135200,
-    "type": "Assignment",
-    "name": "Assignment 0",
-    "course": "CS 137"
-  },
-  {
-    "due": 1600740000,
-    "type": "Assignment",
-    "name": "Assignment 1",
-    "course": "CS 137"
-  },
-  {
-    "due": 1601344800,
-    "type": "Assignment",
-    "name": "Assignment 2",
-    "course": "CS 137"
-  },
-  {
-    "due": 1601906400,
-    "type": "Assignment",
-    "name": "Assignment 3",
-    "course": "CS 137"
-  },
-  {
-    "due": 1602252000,
-    "type": "Assignment",
-    "name": "Assignment 4",
-    "course": "CS 137"
-  },
-  {
-    "due": 1603720800,
-    "type": "Assignment",
-    "name": "Assignment 5",
-    "course": "CS 137"
-  },
-  {
-    "due": 1604329200,
-    "type": "Assignment",
-    "name": "Assignment 6",
-    "course": "CS 137"
-  },
-  {
-    "due": 1604934000,
-    "type": "Assignment",
-    "name": "Assignment 7",
-    "course": "CS 137"
-  },
-  {
-    "due": 1605538800,
-    "type": "Assignment",
-    "name": "Assignment 8",
-    "course": "CS 137"
-  },
-  {
-    "due": 1606143600,
-    "type": "Assignment",
-    "name": "Assignment 9",
-    "course": "CS 137"
-  },
-  {
-    "due": 1606748400,
-    "type": "Assignment",
-    "name": "Assignment 10",
-    "course": "CS 137"
-  },
-  {
-    "due": 1607353200,
-    "type": "Assignment",
-    "name": "Assignment 11",
-    "course": "CS 137"
-  },
-  {
-    "due": 0,
-    "type": "Final",
-    "name": "Final",
-    "course": "CS 137"
-  }
+    {
+        "course": "Co-op",
+        "name": "﻿Book Resume Critique",
+        "type": "💼 Co-op",
+        "due": 1610513940000
+    },
+    {
+        "course": "ECE 124",
+        "name": "Lab Group Registration",
+        "type": "🧪 Lab",
+        "due": 1610773140000
+    },
+    {
+        "course": "MATH 119",
+        "name": "Sapling Assignment 1",
+        "type": "📌 Assignment",
+        "due": 1611118740000
+    },
+    {
+        "course": "MATH 119",
+        "name": "Crowdmark Assignment 0",
+        "type": "📌 Assignment",
+        "due": 1610773140000
+    },
+    {
+        "course": "CS 138",
+        "name": "Assignment 1",
+        "type": "📌 Assignment",
+        "due": 1611280800000
+    },
+    {
+        "course": "Co-op",
+        "name": "Before CFE Survey and Resume Quiz",
+        "type": "📝 Quiz",
+        "due": 1610773140000
+    },
+    {
+        "course": "Co-op",
+        "name": "Attend Resume Critique",
+        "type": "💼 Co-op",
+        "due": 1610773140000
+    },
+    {
+        "course": "Co-op",
+        "name": "APPS DUE - Cycle 1 Posting 1",
+        "type": "💼 Co-op",
+        "due": 1611064800000
+    },
+    {
+        "course": "ECE 140",
+        "name": "Pre-Lab 1",
+        "type": "🧪 Lab",
+        "due": 1611205140000
+    },
+    {
+        "course": "ECE 124",
+        "name": "Lab 1 Report",
+        "type": "🧪 Lab",
+        "due": 1611377940000
+    },
+    {
+        "course": "MATH 119",
+        "name": "Crowdmark Assignment 1",
+        "type": "📌 Assignment",
+        "due": 1611377940000
+    },
+    {
+        "course": "ECE 124",
+        "name": "Lab 1 Quiz",
+        "type": "📝 Quiz",
+        "due": 1611377940000
+    },
+    {
+        "course": "ECE 140",
+        "name": "Lab 3",
+        "type": "🧪 Lab",
+        "due": 1615438740000
+    },
+    {
+        "course": "ECE 124",
+        "name": "Lab 2 Report",
+        "type": "🧪 Lab",
+        "due": 1612587540000
+    },
+    {
+        "course": "CS 138",
+        "name": "Quiz 3",
+        "type": "📝 Quiz",
+        "due": 1618275600000
+    },
+    {
+        "course": "ECE 106",
+        "name": "Midterm",
+        "type": "💫 Exam",
+        "due": 1614747600000
+    },
+    {
+        "course": "Co-op",
+        "name": "Employer Rankings Available",
+        "type": "💼 Co-op",
+        "due": 1613070000000
+    },
+    {
+        "course": "MATH 119",
+        "name": "Sapling Assignment 8",
+        "type": "📌 Assignment",
+        "due": 1617163140000
+    },
+    {
+        "course": "CS 138",
+        "name": "Assignment 6",
+        "type": "📌 Assignment",
+        "due": 1617930000000
+    },
+    {
+        "course": "ECE 140",
+        "name": "Lab 5",
+        "type": "🧪 Lab",
+        "due": 1617854340000
+    },
+    {
+        "course": "CS 138",
+        "name": "Final",
+        "type": "💫 Exam",
+        "due": 1617854400000
+    },
+    {
+        "course": "ECE 106",
+        "name": "Final Design Project",
+        "type": "📌 Assignment",
+        "due": 1618286340000
+    },
+    {
+        "course": "CS 138",
+        "name": "Assignment 2",
+        "type": "📌 Assignment",
+        "due": 1612490400000
+    },
+    {
+        "course": "ECE 140",
+        "name": "Pre-Lab 4",
+        "type": "🧪 Lab",
+        "due": 1616039940000
+    },
+    {
+        "course": "MATH 119",
+        "name": "Crowdmark Assignment 6",
+        "type": "📌 Assignment",
+        "due": 1615006740000
+    },
+    {
+        "course": "ECE 140",
+        "name": "Midterm",
+        "type": "💫 Exam",
+        "due": 1614401940000
+    },
+    {
+        "course": "CS 138",
+        "name": "Assignment 4",
+        "type": "📌 Assignment",
+        "due": 1615514400000
+    },
+    {
+        "course": "MATH 119",
+        "name": "Crowdmark Assignment 4",
+        "type": "📌 Assignment",
+        "due": 1613192340000
+    },
+    {
+        "course": "ECE 140",
+        "name": "Lab 2",
+        "type": "🧪 Lab",
+        "due": 1613019540000
+    },
+    {
+        "course": "MATH 119",
+        "name": "Crowdmark Assignment 3",
+        "type": "📌 Assignment",
+        "due": 1612587540000
+    },
+    {
+        "course": "CS 138",
+        "name": "Quiz 1",
+        "type": "📝 Quiz",
+        "due": 1612836000000
+    },
+    {
+        "course": "ECE 124",
+        "name": "Lab 3 Report",
+        "type": "🧪 Lab",
+        "due": 1615006740000
+    },
+    {
+        "course": "MATH 119",
+        "name": "Sapling Assignment 7",
+        "type": "📌 Assignment",
+        "due": 1616558340000
+    },
+    {
+        "course": "Co-op",
+        "name": "APPS DUE - Cycle 2 Posting 1",
+        "type": "💼 Co-op",
+        "due": 1614088800000
+    },
+    {
+        "course": "ECE 140",
+        "name": "Pre-Lab 2",
+        "type": "🧪 Lab",
+        "due": 1612414740000
+    },
+    {
+        "course": "MATH 119",
+        "name": "Sapling Assignment 9",
+        "type": "📌 Assignment",
+        "due": 1617767940000
+    },
+    {
+        "course": "Co-op",
+        "name": "Student Rankings Due",
+        "type": "💼 Co-op",
+        "due": 1615575600000
+    },
+    {
+        "course": "ECE 106",
+        "name": "Lab 2",
+        "type": "🧪 Lab",
+        "due": 1613105940000
+    },
+    {
+        "course": "MATH 119",
+        "name": "Sapling Assignment 5",
+        "type": "📌 Assignment",
+        "due": 1614142740000
+    },
+    {
+        "course": "ECE 140",
+        "name": "Pre-Lab 3",
+        "type": "🧪 Lab",
+        "due": 1614833940000
+    },
+    {
+        "course": "CS 138",
+        "name": "Assignment 3",
+        "type": "📌 Assignment",
+        "due": 1614304800000
+    },
+    {
+        "course": "Co-op",
+        "name": "Student Rankings Due",
+        "type": "💼 Co-op",
+        "due": 1613156400000
+    },
+    {
+        "course": "ECE 124",
+        "name": "Lab 4 Report",
+        "type": "🧪 Lab",
+        "due": 1617249540000
+    },
+    {
+        "course": "ECE 140",
+        "name": "Final",
+        "type": "💫 Exam",
+        "due": 1618459140000
+    },
+    {
+        "course": "CS 138",
+        "name": "Quiz 2",
+        "type": "📝 Quiz",
+        "due": 1616115600000
+    },
+    {
+        "course": "Co-op",
+        "name": "APPS DUE - Cycle 2 Posting 2",
+        "type": "💼 Co-op",
+        "due": 1614693600000
+    },
+    {
+        "course": "ECE 106",
+        "name": "Lab 3",
+        "type": "🧪 Lab",
+        "due": 1616126340000
+    },
+    {
+        "course": "CS 138",
+        "name": "Assignment 5",
+        "type": "📌 Assignment",
+        "due": 1616720400000
+    },
+    {
+        "course": "MATH 119",
+        "name": "Crowdmark Assignment 8",
+        "type": "📌 Assignment",
+        "due": 1616212740000
+    },
+    {
+        "course": "ECE 106",
+        "name": "Lab 1",
+        "type": "🧪 Lab",
+        "due": 1611896340000
+    },
+    {
+        "course": "MATH 119",
+        "name": "Crowdmark Assignment 9",
+        "type": "📌 Assignment",
+        "due": 1616817540000
+    },
+    {
+        "course": "MATH 119",
+        "name": "Crowdmark Assignment 7",
+        "type": "📌 Assignment",
+        "due": 1615611540000
+    },
+    {
+        "course": "MATH 119",
+        "name": "Sapling Assignment 3",
+        "type": "📌 Assignment",
+        "due": 1612328340000
+    },
+    {
+        "course": "MATH 119",
+        "name": "Sapling Assignment 10",
+        "type": "📌 Assignment",
+        "due": 1618372740000
+    },
+    {
+        "course": "ECE 140",
+        "name": "Pre-Lab 5",
+        "type": "🧪 Lab",
+        "due": 1617249540000
+    },
+    {
+        "course": "MATH 119",
+        "name": "Sapling Assignment 4",
+        "type": "📌 Assignment",
+        "due": 1612933140000
+    },
+    {
+        "course": "Co-op",
+        "name": "APPS DUE - Cycle 1 Posting 2",
+        "type": "💼 Co-op",
+        "due": 1611669600000
+    },
+    {
+        "course": "ECE 140",
+        "name": "Lab 4",
+        "type": "🧪 Lab",
+        "due": 1616644740000
+    },
+    {
+        "course": "ECE 106",
+        "name": "Final Exam",
+        "type": "💫 Exam",
+        "due": 1619064000000
+    },
+    {
+        "course": "ECE 124",
+        "name": "Lab 3 Quiz",
+        "type": "📝 Quiz",
+        "due": 1615006740000
+    },
+    {
+        "course": "ECE 124",
+        "name": "Lab 4 Quiz",
+        "type": "📝 Quiz",
+        "due": 1617249540000
+    },
+    {
+        "course": "MATH 119",
+        "name": "Crowdmark Assignment 2",
+        "type": "📌 Assignment",
+        "due": 1611982740000
+    },
+    {
+        "course": "MATH 119",
+        "name": "Crowdmark Assignment 10",
+        "type": "📌 Assignment",
+        "due": 1618027140000
+    },
+    {
+        "course": "MATH 119",
+        "name": "Sapling Assignment 6",
+        "type": "📌 Assignment",
+        "due": 1614747540000
+    },
+    {
+        "course": "ECE 124",
+        "name": "Lab 2 Quiz",
+        "type": "📝 Quiz",
+        "due": 1612587540000
+    },
+    {
+        "course": "Co-op",
+        "name": "Employer Rankings Available",
+        "type": "💼 Co-op",
+        "due": 1615489200000
+    },
+    {
+        "course": "MATH 119",
+        "name": "Crowdmark Assignment 5",
+        "type": "📌 Assignment",
+        "due": 1614401940000
+    },
+    {
+        "course": "ECE 140",
+        "name": "Lab 1",
+        "type": "🧪 Lab",
+        "due": 1611809940000
+    },
+    {
+        "course": "MATH 119",
+        "name": "Sapling Assignment 2",
+        "type": "📌 Assignment",
+        "due": 1611723540000
+    },
+    {
+        "course": "ECE 106",
+        "name": "Quiz 1",
+        "type": "📝 Quiz",
+        "due": 1610946000000
+    },
+    {
+        "course": "ECE 106",
+        "name": "Quiz 2",
+        "type": "📝 Quiz",
+        "due": 1611550800000
+    },
+    {
+        "course": "ECE 106",
+        "name": "Quiz 3",
+        "type": "📝 Quiz",
+        "due": 1612155600000
+    },
+    {
+        "course": "ECE 106",
+        "name": "Quiz 4",
+        "type": "📝 Quiz",
+        "due": 1612760400000
+    },
+    {
+        "course": "ECE 106",
+        "name": "Quiz 5",
+        "type": "📝 Quiz",
+        "due": 1613970000000
+    },
+    {
+        "course": "ECE 106",
+        "name": "Quiz 6",
+        "type": "📝 Quiz",
+        "due": 1614574800000
+    },
+    {
+        "course": "ECE 106",
+        "name": "Quiz 7",
+        "type": "📝 Quiz",
+        "due": 1615179600000
+    },
+    {
+        "course": "ECE 106",
+        "name": "Quiz 8",
+        "type": "📝 Quiz",
+        "due": 1615780800000
+    },
+    {
+        "course": "ECE 106",
+        "name": "Quiz 9",
+        "type": "📝 Quiz",
+        "due": 1616385600000
+    },
+    {
+        "course": "ECE 106",
+        "name": "Quiz 10",
+        "type": "📝 Quiz",
+        "due": 1616990400000
+    }
 ]
